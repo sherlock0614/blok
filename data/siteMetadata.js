@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Hoşgeldiniz',
-  author: 'Orhan Cansu',
+  author: 'Yasin Yagmur',
   headerTitle: 'Gelecek Bir Kaygı...',
   description: 'Yazacağım teknik bloglar Feynman`ın gösterdiği yolu izleyecekler.',
   language: 'tr-tr',
