@@ -19,7 +19,7 @@ const siteMetadata = {
   locale: 'tr-TR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: 'https://orhancansu.vercel.app', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://rainshop.vercel.app', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     googleAnalyticsId: 'G-XKEYWQSSF6', // e.g. UA-000000-2 or G-XXXXXXX
   },
