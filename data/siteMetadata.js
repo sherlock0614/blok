@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Hoşgeldiniz',
   author: 'Yasin Yagmur',
-  headerTitle: 'Gelecek Bir Kaygı...',
+  headerTitle: 'Hedeflediğin Yolda Yürü...',
   description: 'Yazacağım teknik bloglar Feynman`ın gösterdiği yolu izleyecekler.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
@@ -12,10 +12,9 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'yasinyagmur1996@gmail.com',
   github: 'https://github.com/konerjonlar',
-  twitter: 'https://twitter.com/orhancansu15',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/orhan-cansu',
+  linkedin: 'https://www.linkedin.com/in/yasin-ya%C4%9Fmur-9a13a7207/',
   locale: 'tr-TR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
