@@ -1,13 +1,11 @@
 ---
-name: Orhan Cansu
+name: Yasin Yağmur
 avatar: /static/images/avatar.png
-occupation: Berber, Web Geliştiricisi, Freelancer 
-company: Ege Üniversitesi, Anadolu Üniversitesi
-email: orhancansu98@gmail.com
-twitter: https://twitter.com/orhancansu15
-linkedin: https://www.linkedin.com/in/orhan-cansu
-github: https://github.com/konerjonlar
----
+occupation: muhasebe, Web Geliştiricisi, Freelancer 
+company: ABANAT İZZET BAYSAL ÜNİVERSİTESİ
+email: yasinyagmur1996@gmail.com
+linkedin: https://www.linkedin.com/in/yasin-ya%C4%9Fmur-9a13a7207/
+github:https://github.com/sherlock0614
 
 Sorgusu çok, popüler kültürden uzak kalmaya çalışarak minimalist yaşamaya özen gösteren, aşırı tüketime ve israfa tamamen karşı olan bir insanım. Son yıllarımı eğitim odaklı geçiriyorum. En büyük motivasyon kaynağım başarı elde etmek. Bu yüzden olduğum insandan farklılaşarak daha sosyal ve paylaşımcı bir insana evriliyorum.
 
